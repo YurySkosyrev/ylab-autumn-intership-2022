@@ -12,7 +12,7 @@ spring:
     password: test
 
 server:
-  port: 8091
+  port: 8090
   servlet:
     context-path: /app
 management:
